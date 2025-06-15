@@ -10,9 +10,9 @@
 ## 📁 Excel Projects
 - [Customer Analytics Dashboard](https://github.com/sumitmehta2305/Customer-Analytics-Dashboard)
 
-## 📁 Power BI Projects
-- [Sales Dashboard](https://github.com/sumitmehta2305/sales-dashboard)
-- [Profitability Report](https://github.com/sumitmehta2305/profit-powerbi)
+## 📁 SQL Projects
+- [SQL-Market-Analysis](https://github.com/sumitmehta2305/SQL-Market-Analysis.git))
+
 ---
 
 📫 **Connect with Me:**
