@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Mehta
 
-<!--
-**sumitmehta2305/sumitmehta2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Strong Communicator | Quick Learner | Growth Mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Python Projects
+-
+
+## 📁 Excel Projects
+- [Customer Analytics Dashboard](https://github.com/sumitmehta2305/Customer-Analytics-Dashboard)
+
+## 📁 Power BI Projects
+- [Sales Dashboard](https://github.com/sumitmehta2305/sales-dashboard)
+- [Profitability Report](https://github.com/sumitmehta2305/profit-powerbi)
+---
+
+📫 **Connect with Me:**
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sumit-mehta-644431297/)
+- 📧 mehtasumit1432@gmail.com
+- 🧑‍💻 [GitHub Portfolio](https://github.com/sumitmehta2305)
