@@ -11,7 +11,7 @@
 - [Customer Analytics Dashboard](https://github.com/sumitmehta2305/Customer-Analytics-Dashboard)
 
 ## 📁 SQL Projects
-- [SQL-Market-Analysis](https://github.com/sumitmehta2305/SQL-Market-Analysis.git))
+- [SQL-Market-Analysis](https://github.com/sumitmehta2305/SQL-Market-Analysis.git)
 
 ---
 
