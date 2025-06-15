@@ -5,7 +5,7 @@
 ---
 
 ## 📁 Python Projects
--
+-[Diwali Sales Data Analysis](https://github.com/sumitmehta2305/Diwali-Sales-Analysis.git)
 
 ## 📁 Excel Projects
 - [Customer Analytics Dashboard](https://github.com/sumitmehta2305/Customer-Analytics-Dashboard)
