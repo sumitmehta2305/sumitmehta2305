@@ -10,6 +10,9 @@
 ## 📁 Excel Projects
 - [Customer Analytics Dashboard](https://github.com/sumitmehta2305/Customer-Analytics-Dashboard)
 
+## 📁 Power BI Projects
+- [Blinket - Power BI Dashboard](https://github.com/sumitmehta2305/Blinket-PowerBI-Dashboard..git)
+  
 ## 📁 SQL Projects
 - [SQL-Market-Analysis](https://github.com/sumitmehta2305/SQL-Market-Analysis.git)
 
