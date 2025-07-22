@@ -5,6 +5,7 @@
 ---
 
 ## 📁 Python Projects
+- [Market Data Analysis for investors](https://github.com/sumitmehta2305/Market-Data-EDA-Project.git)
 - [Diwali Sales Data Analysis](https://github.com/sumitmehta2305/Diwali-Sales-Analysis.git)
 
 ## 📁 Excel Projects
